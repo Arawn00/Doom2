@@ -14,7 +14,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "E:\\SteamLibrary\\steamapps\\common\\Doom 2\\base\\DOOM2.WAD";
+				location = "D:\\Steam\\steamapps\\common\\Doom 2\\base\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -38,9 +38,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -79.37257f;
-		viewpositiony = -207.5408f;
-		viewscale = 1.900492f;
+		viewpositionx = 785.1713f;
+		viewpositiony = 133.9454f;
+		viewscale = 1.124545f;
 		
 		grid
 		{
@@ -96,13 +96,13 @@ maps
 					prefab1
 					{
 						name = "[Previous]";
-						numberofsectors = 8;
+						numberofsectors = 6;
 						outervertexmultiplier = 1;
 						innervertexmultiplier = 1;
 						stairtype = 0;
 						sectordepth = 32;
 						spacing = 0;
-						frontside = false;
+						frontside = true;
 						singlesectors = false;
 						distinctsectors = false;
 						singledirection = false;
@@ -113,17 +113,17 @@ maps
 						floormod = 16;
 						applyceilingmod = true;
 						ceilingmod = 0;
-						applyfloortexture = true;
-						floortexture = "STEP2";
+						applyfloortexture = false;
+						floortexture = "";
 						applyceilingtexture = false;
 						ceilingtexture = "";
 						applyuppertexture = true;
-						uppertexture = "-";
+						uppertexture = "BIGBRIK1";
 						upperunpegged = true;
 						applymiddletexture = false;
 						middletexture = "-";
 						applylowertexture = true;
-						lowertexture = "STEP5";
+						lowertexture = "BIGBRIK1";
 						lowerunpegged = true;
 					}
 				}
