@@ -14,7 +14,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "D:\\Steam\\steamapps\\common\\Doom 2\\base\\DOOM2.WAD";
+				location = "E:\\SteamLibrary\\steamapps\\common\\Doom 2\\base\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -38,9 +38,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -721.9193f;
-		viewpositiony = 1061.864f;
-		viewscale = 1.4619f;
+		viewpositionx = -479.5582f;
+		viewpositiony = 1826.79f;
+		viewscale = 0.6654073f;
 		
 		grid
 		{
